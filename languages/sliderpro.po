@@ -1,0 +1,454 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Accordion Slider\n"
+"POT-Creation-Date: 2015-04-28 17:33+0200\n"
+"PO-Revision-Date: 2015-04-28 17:33+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: -1,-1,-1,0,-1,-1,-1,-1,-1,-1\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-sliderpro-admin.php:137 admin/views/slide.php:9
+msgid "Click to add image"
+msgstr ""
+
+#: admin/class-sliderpro-admin.php:138
+msgid "Are you sure you want to delete this slider?"
+msgstr ""
+
+#: admin/class-sliderpro-admin.php:139
+msgid "Are you sure you want to delete this slide?"
+msgstr ""
+
+#: admin/class-sliderpro-admin.php:140
+msgid "Yes"
+msgstr ""
+
+#: admin/class-sliderpro-admin.php:141
+msgid "Cancel"
+msgstr ""
+
+#: admin/class-sliderpro-admin.php:142
+msgid "Save"
+msgstr ""
+
+#: admin/class-sliderpro-admin.php:143
+msgid "Slider updated."
+msgstr ""
+
+#: admin/class-sliderpro-admin.php:144
+msgid "Slider created."
+msgstr ""
+
+#: admin/class-sliderpro-admin.php:169
+msgid "Slider Pro"
+msgstr ""
+
+#: admin/class-sliderpro-admin.php:170 admin/views/sliders.php:2
+msgid "All Sliders"
+msgstr ""
+
+#: admin/class-sliderpro-admin.php:178 admin/views/slider.php:2
+msgid "Add New Slider"
+msgstr ""
+
+#: admin/class-sliderpro-admin.php:179
+msgid "Add New"
+msgstr ""
+
+#: admin/class-sliderpro-admin.php:187 admin/class-sliderpro-admin.php:188
+#: admin/views/plugin-settings.php:2
+msgid "Plugin Settings"
+msgstr ""
+
+#: admin/class-sliderpro-admin.php:196 admin/class-sliderpro-admin.php:197
+msgid "Upgrade"
+msgstr ""
+
+#: admin/views/plugin-settings.php:35
+msgid "Clear all cache now"
+msgstr ""
+
+#: admin/views/slider.php:2
+msgid "Edit Slider"
+msgstr ""
+
+#: admin/views/slider.php:26
+msgid "Add Slides"
+msgstr ""
+
+#: admin/views/slider.php:33
+msgid "Update"
+msgstr ""
+
+#: admin/views/slider.php:33
+msgid "Create"
+msgstr ""
+
+#: admin/views/slider.php:35 admin/views/sliders-row.php:19
+msgid "Preview"
+msgstr ""
+
+#: admin/views/sliders-row.php:18
+msgid "Edit"
+msgstr ""
+
+#: admin/views/sliders-row.php:20
+msgid "Delete"
+msgstr ""
+
+#: admin/views/sliders-row.php:21
+msgid "Duplicate"
+msgstr ""
+
+#: admin/views/sliders.php:7 admin/views/sliders.php:44
+msgid "ID"
+msgstr ""
+
+#: admin/views/sliders.php:8 admin/views/sliders.php:45
+msgid "Name"
+msgstr ""
+
+#: admin/views/sliders.php:9 admin/views/sliders.php:46
+msgid "Shortcode"
+msgstr ""
+
+#: admin/views/sliders.php:10 admin/views/sliders.php:47
+msgid "Created"
+msgstr ""
+
+#: admin/views/sliders.php:11 admin/views/sliders.php:48
+msgid "Modified"
+msgstr ""
+
+#: admin/views/sliders.php:12 admin/views/sliders.php:49
+msgid "Actions"
+msgstr ""
+
+#: admin/views/sliders.php:26
+msgid "You don't have saved sliders."
+msgstr ""
+
+#: admin/views/sliders.php:55
+msgid "Create New Slider"
+msgstr ""
+
+#: admin/views/upgrade.php:2
+msgid "Upgrade to Full Version"
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:93
+msgid "Width"
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:96
+msgid ""
+"Sets the width of the slide. Can be set to a fixed value, like 900 "
+"(indicating 900 pixels), or to a percentage value, like '100%'."
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:101
+msgid "Height"
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:104
+msgid ""
+"Sets the height of the slide. Can be set to a fixed value, like 900 "
+"(indicating 900 pixels), or to a percentage value, like '100%'."
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:109
+msgid "Responsive"
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:112
+msgid ""
+"Makes the slider responsive. The slider can be responsive even if the "
+"'width' and/or 'height' properties are set to fixed values. In this "
+"situation, 'width' and 'height' will act as the maximum width and height of "
+"the slides."
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:117
+msgid "Aspect Ratio"
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:120
+msgid ""
+"Sets the aspect ratio of the slides. If set to a value different than -1, "
+"the height of the slides will be overridden in order to maintain the "
+"specified aspect ratio."
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:125
+msgid "Image Scale Mode"
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:129
+msgid "Cover"
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:130
+msgid "Contain"
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:131
+msgid "Exact"
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:132
+#: includes/class-sliderpro-settings.php:205
+msgid "None"
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:134
+msgid ""
+"Sets the scale mode of the main slide images. <i>Cover</i> will scale and "
+"crop the image so that it fills the entire slide. <i>Contain</i> will keep "
+"the entire image visible inside the slide. <i>Exact</i> will match the size "
+"of the image to the size of the slide. <i>None</i> will leave the image to "
+"its original size."
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:139
+msgid "Center Image"
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:142
+msgid "Indicates if the image will be centered."
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:147
+msgid "Start Slide"
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:150
+msgid "Sets the slide that will be selected when the slider loads."
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:155
+msgid "Slide Distance"
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:158
+msgid "Sets the distance between the slides."
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:163
+msgid "Slide Animation Duration"
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:166
+msgid "Sets the duration of the slide animation."
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:171
+msgid "Autoplay"
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:174
+msgid "Indicates whether or not autoplay will be enabled."
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:179
+msgid "Autoplay Delay"
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:182
+msgid ""
+"Sets the delay/interval (in milliseconds) at which the autoplay will run."
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:187
+msgid "Autoplay Direction"
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:191
+msgid "Normal"
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:192
+msgid "Backwards"
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:194
+msgid ""
+"Indicates whether autoplay will navigate to the next slide or previous slide."
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:199
+msgid "Autoplay On Hover"
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:203
+msgid "Pause"
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:204
+msgid "Stop"
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:207
+msgid ""
+"Indicates if the autoplay will be paused or stopped when the slider is "
+"hovered."
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:212
+msgid "Arrows"
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:215
+msgid "Indicates whether the arrow buttons will be created."
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:220
+msgid "Fade Arrows"
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:223
+msgid "Indicates whether the arrows will fade in only on hover."
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:228
+msgid "Buttons"
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:231
+msgid "Indicates whether the buttons will be created."
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:236
+msgid "Keyboard"
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:239
+msgid "Indicates whether keyboard navigation will be enabled."
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:244
+msgid "Keyboard Only On Focus"
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:247
+msgid ""
+"Indicates whether the slider will respond to keyboard input only when the "
+"slider is in focus."
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:252
+msgid "Touch Swipe"
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:255
+msgid "Indicates whether the touch swipe will be enabled for slides."
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:260
+msgid "Touch Swipe Threshold"
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:263
+msgid "Sets the minimum amount that the slides should move."
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:268
+msgid "Fade Caption"
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:271
+msgid "Indicates whether or not the captions will be faded."
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:276
+msgid "Caption Fade Duration"
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:279
+msgid "Sets the duration of the fade animation."
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:304
+msgid "Appearance"
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:318
+msgid "Animations"
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:325
+msgid "Navigation"
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:342
+msgid "Captions"
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:376
+msgid "Load stylesheets"
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:379
+msgid "Automatically"
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:380
+msgid "On homepage"
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:381
+msgid "On all pages"
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:383
+msgid ""
+"The plugin can detect the presence of the slider in a post, page or widget, "
+"and will automatically load the necessary stylesheets. However, when the "
+"slider is loaded in PHP code, like in the theme's header or another template "
+"file, you need to manually specify where the stylesheets should load. If you "
+"load the slider only on the homepage, select <i>On homepage</i>, or if you "
+"load it in the header or another section that is visible on multiple pages, "
+"select <i>On all pages</i>."
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:386
+msgid "Cache expiry interval"
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:388
+msgid ""
+"Indicates the time interval after which a slider's cache will expire. If the "
+"cache of a slider has expired, the slider will be rendered again and cached "
+"the next time it is viewed."
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:391
+msgid "Access"
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:394
+msgid "Administrator"
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:395
+msgid "Editor"
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:396
+msgid "Author"
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:397
+msgid "Contributor"
+msgstr ""
+
+#: includes/class-sliderpro-settings.php:399
+msgid ""
+"Sets what category of users will have access to the plugin's admin area."
+msgstr ""
