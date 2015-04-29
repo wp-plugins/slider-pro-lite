@@ -96,8 +96,8 @@ class BQW_SliderPro_Lite_Admin {
 		$screen = get_current_screen();
 
 		if ( in_array( $screen->id, $this->plugin_screen_hook_suffixes ) ) {
-			wp_enqueue_style( $this->plugin_slug . '-admin-style', plugins_url( 'sliderpro-lite/admin/assets/css/sliderpro-admin.min.css' ), array(), BQW_SliderPro_Lite::VERSION );
-			wp_enqueue_style( $this->plugin_slug . '-plugin-style', plugins_url( 'sliderpro-lite/public/assets/css/slider-pro.min.css' ), array(), BQW_SliderPro_Lite::VERSION );
+			wp_enqueue_style( $this->plugin_slug . '-admin-style', plugins_url( 'slider-pro-lite/admin/assets/css/sliderpro-admin.min.css' ), array(), BQW_SliderPro_Lite::VERSION );
+			wp_enqueue_style( $this->plugin_slug . '-plugin-style', plugins_url( 'slider-pro-lite/public/assets/css/slider-pro.min.css' ), array(), BQW_SliderPro_Lite::VERSION );
 		}
 	}
 
@@ -121,8 +121,8 @@ class BQW_SliderPro_Lite_Admin {
 		    	wp_enqueue_media();
 			}
 
-			wp_enqueue_script( $this->plugin_slug . '-admin-script', plugins_url( 'sliderpro-lite/admin/assets/js/sliderpro-admin.min.js' ), array( 'jquery' ), BQW_SliderPro_Lite::VERSION );
-			wp_enqueue_script( $this->plugin_slug . '-plugin-script', plugins_url( 'sliderpro-lite/public/assets/js/jquery.sliderPro.min.js' ), array( 'jquery' ), BQW_SliderPro_Lite::VERSION );
+			wp_enqueue_script( $this->plugin_slug . '-admin-script', plugins_url( 'slider-pro-lite/admin/assets/js/sliderpro-admin.min.js' ), array( 'jquery' ), BQW_SliderPro_Lite::VERSION );
+			wp_enqueue_script( $this->plugin_slug . '-plugin-script', plugins_url( 'slider-pro-lite/public/assets/js/jquery.sliderPro.min.js' ), array( 'jquery' ), BQW_SliderPro_Lite::VERSION );
 
 			$id = isset( $_GET['id'] ) ? $_GET['id'] : -1;
 
@@ -161,7 +161,7 @@ class BQW_SliderPro_Lite_Admin {
 			$access,
 			$this->plugin_slug,
 			array( $this, 'render_slider_page' ),
-			plugins_url( '/sliderpro-lite/admin/assets/css/images/sp-icon.png' )
+			plugins_url( '/slider-pro-lite/admin/assets/css/images/sp-icon.png' )
 		);
 		
 		$this->plugin_screen_hook_suffixes[] = add_submenu_page(
