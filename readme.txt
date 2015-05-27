@@ -2,7 +2,7 @@
 Contributors: bqworks
 Tags: slider pro, responsive slider, touch slider, slider, images, image slider, plugin, widget, wordpress slider, responsive wordpress slider, shortcode, slider plugin, touch swipe
 Requires at least: 3.6
-Tested up to: 4.1
+Tested up to: 4.2.2
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
